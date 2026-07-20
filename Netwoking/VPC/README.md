@@ -6,37 +6,48 @@ In this lab, I explored Amazon Virtual Private Cloud (Amazon VPC) by creating a 
 
 ## Topics Covered
 
-- Created an Amazon VPC
-- Created a subnet within the VPC
-- Attached an Internet Gateway (IGW)
-- Configured a Route Table
-- Associated the Route Table with the subnet
-- Verified network connectivity
+* Created an Amazon VPC
+* Created a subnet within the VPC
+* Attached an Internet Gateway (IGW)
+* Configured a Route Table
+* Associated the Route Table with the subnet
+* Verified network connectivity
 
 ## Skills Gained
 
-- Amazon VPC
-- CIDR Blocks
-- Subnets
-- Internet Gateway
-- Route Tables
-- Network Configuration
-- AWS Networking Fundamentals
+* Amazon VPC
+* CIDR Blocks
+* Subnets
+* Internet Gateway
+* Route Tables
+* Network Configuration
+* AWS Networking Fundamentals
 
 ## What I Learned
 
-- A VPC provides an isolated virtual network in AWS.
-- CIDR blocks define the IP address range for a VPC.
-- Subnets divide a VPC into smaller networks.
-- An Internet Gateway enables communication between the VPC and the internet.
-- Route Tables determine how network traffic is directed.
-- Public subnets require a route to the Internet Gateway for internet access.
+* A VPC provides an isolated virtual network in AWS.
+* CIDR blocks define the IP address range for a VPC.
+* Subnets divide a VPC into smaller networks.
+* An Internet Gateway enables communication between the VPC and the internet.
+* Route Tables determine how network traffic is directed.
+* Public subnets require a route to the Internet Gateway for internet access.
+
+
+
+\## Network Diagram
+
+
+
+!\[VPC Network Diagram](VPC-Network-Diagram.png)
+
+
 
 ## Lab Evidence
 
-- Screenshots
-- AWS Skill Builder Completion Certificate
+* Screenshots
+* AWS Skill Builder Completion Certificate
 
 ## Status
 
 ✅ Completed
+
