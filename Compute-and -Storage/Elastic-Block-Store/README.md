@@ -7,7 +7,7 @@ This project demonstrates the fundamentals of **Amazon Elastic Block Store (EBS)
 The project focuses on creating an EBS volume, understanding how it attaches to an EC2 instance, and understanding how EBS snapshots are used for backup and recovery.
 
 > **Note:** This project was completed as a learning and architecture exercise. No production infrastructure was deployed.
-> No AWS console lab was completed for this exercise because a suitable free hands-on EC2 Auto Scaling lab was not available without requiring an AWS payment card.
+> No AWS console lab was completed for this exercise because a suitable free hands-on EBS lab was not available without requiring an AWS payment card.
 
 
 ---
