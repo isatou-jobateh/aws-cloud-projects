@@ -52,7 +52,7 @@ Through this project, I learned:
 
 ## Project Diagram
 
-![Auto-Scaling](Diagrams/Auto-Scaling-Diagram.png)
+![Auto-Scaling](Diagram/Auto-Scaling-Diagram.png)
 
 ## Key Concepts
 
