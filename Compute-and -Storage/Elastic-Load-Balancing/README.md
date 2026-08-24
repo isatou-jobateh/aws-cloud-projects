@@ -6,7 +6,7 @@ This project demonstrates my understanding of AWS Elastic Load Balancing (ELB) a
 
 ## Architecture
 
-![ELB Architecture Diagram](Diagrams/ELB-Architecture-Diagram.png)
+![Elactic-Load-Balancing](Diagrams/ELB-Network-Diagram.png)
 
 ## Architecture Components
 

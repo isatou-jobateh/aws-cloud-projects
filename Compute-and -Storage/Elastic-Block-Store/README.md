@@ -40,7 +40,7 @@ The EBS volume provides persistent block storage for the EC2 instance, while the
 
 ## Architecture Diagram
 
-![EBS Architecture Diagram](Diagrams/EBS-Diagram.png)
+![Elactic-Block-Store](Diagrams/Elastic-Block-Store-Diagram.png)
 
 The editable draw.io version is also included in this project:
 
