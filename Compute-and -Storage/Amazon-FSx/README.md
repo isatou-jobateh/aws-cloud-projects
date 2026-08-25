@@ -8,7 +8,7 @@ The architecture contains two EC2 instances located in separate Availability Zon
 
 ## Architecture
 
-![Amazon-FSx ](Diagrams/FSx-Windows-File-Server-Diagrams.png)
+![Amazon-FSx ](Diagrams/FSx-Windows-File-Server.Diagram.png)
 
 ### Components
 
