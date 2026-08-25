@@ -1,0 +1,52 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="MHbur8xIEwJc_ZY97k8n">
+    <mxGraphModel dx="860" dy="529" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cz77Hk9gzUBVe3x-loTE-1" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc2;strokeColor=light-dark(#8C4FFF,#FFB366);fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" value="VPC" vertex="1">
+          <mxGeometry height="406" width="467" x="205" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz77Hk9gzUBVe3x-loTE-2" parent="Cz77Hk9gzUBVe3x-loTE-1" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" value="Availability Zone A" vertex="1">
+          <mxGeometry height="130" width="130" x="14" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz77Hk9gzUBVe3x-loTE-3" parent="Cz77Hk9gzUBVe3x-loTE-1" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" value="Availability Zone B" vertex="1">
+          <mxGeometry height="130" width="130" x="313" y="123" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz77Hk9gzUBVe3x-loTE-8" parent="Cz77Hk9gzUBVe3x-loTE-1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#b46504;fillColor=#fad7ac;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 204, 153));&quot;&gt;Private subnet A&lt;/span&gt;" vertex="1">
+          <mxGeometry height="97.5" width="130" x="14" y="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz77Hk9gzUBVe3x-loTE-9" parent="Cz77Hk9gzUBVe3x-loTE-1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#ae4132;fillColor=#fad9d5;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 204, 204));&quot;&gt;Private subnet B&lt;/span&gt;" vertex="1">
+          <mxGeometry height="95" width="130" x="313" y="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz77Hk9gzUBVe3x-loTE-10" parent="Cz77Hk9gzUBVe3x-loTE-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="21" y="189" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz77Hk9gzUBVe3x-loTE-11" parent="Cz77Hk9gzUBVe3x-loTE-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px; color: light-dark(rgb(0, 0, 0), rgb(255, 179, 102));&quot;&gt;EC2 instance A&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="103" x="36" y="228" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz77Hk9gzUBVe3x-loTE-13" parent="Cz77Hk9gzUBVe3x-loTE-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" value="" vertex="1">
+          <mxGeometry height="49" width="49" x="327" y="189" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz77Hk9gzUBVe3x-loTE-12" parent="Cz77Hk9gzUBVe3x-loTE-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px; color: light-dark(rgb(0, 0, 0), rgb(255, 153, 153));&quot;&gt;EC2 instance B&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="132" x="335" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz77Hk9gzUBVe3x-loTE-15" edge="1" parent="Cz77Hk9gzUBVe3x-loTE-1" source="Cz77Hk9gzUBVe3x-loTE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;fillColor=#fad7ac;strokeColor=#b46504;" target="Cz77Hk9gzUBVe3x-loTE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz77Hk9gzUBVe3x-loTE-14" parent="Cz77Hk9gzUBVe3x-loTE-1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.fsx_for_windows_file_server;" value="" vertex="1">
+          <mxGeometry height="64" width="64" x="201.5" y="322" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz77Hk9gzUBVe3x-loTE-16" edge="1" parent="Cz77Hk9gzUBVe3x-loTE-1" source="Cz77Hk9gzUBVe3x-loTE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.068;entryY=0.267;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;fillColor=#fad7ac;strokeColor=#b46504;" target="Cz77Hk9gzUBVe3x-loTE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz77Hk9gzUBVe3x-loTE-17" parent="Cz77Hk9gzUBVe3x-loTE-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px; color: light-dark(rgb(0, 0, 0), rgb(128, 255, 0));&quot;&gt;Amazon FSx for windows servers&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="176" x="255" y="358" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz77Hk9gzUBVe3x-loTE-18" parent="Cz77Hk9gzUBVe3x-loTE-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px; color: light-dark(rgb(0, 0, 0), rgb(102, 204, 0));&quot;&gt;( SMB protocol )&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="122" x="254" y="376" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
