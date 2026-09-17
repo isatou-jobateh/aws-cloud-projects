@@ -99,7 +99,6 @@ Amazon DynamoDB/
 └── DynamoDB~Lab~Screenshots/
     ├── 01-create-table.png
     ├── 02-add-data.png
-    ├── 
     ├── 03-query-data.png
     └── 04-delete-table.png
 ```
